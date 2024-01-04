@@ -1,7 +1,7 @@
 '''
 Author: ChocoboQJJ ChocoboQJJ@gmail.com
 Date: 2024-01-03 17:25:30
-Description: Json大文件拆分工具
+Description: json大文件拆分工具
 '''
 import json
 import os
